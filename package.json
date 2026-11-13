@@ -1,0 +1,15 @@
+{
+  "name": "gentle-architecture-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Pi / Gentle Shell skill that writes and maintains architecture documentation as code: ADRs, C4, data model, state and sequence diagrams, API contracts, deployment, security, runbooks, NFRs and a glossary.",
+  "keywords": [
+    "pi-package"
+  ],
+  "license": "MIT",
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}
