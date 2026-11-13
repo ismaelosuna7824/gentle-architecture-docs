@@ -7,8 +7,8 @@ Every document lists the code it describes and the commit it was last checked at
 ## Install
 
 ```bash
-gentle-shell install git:github.com/<owner>/gentle-architecture-docs   # personal
-gentle-shell install -l git:github.com/<owner>/gentle-architecture-docs # this project only
+gentle-shell install git:github.com/ismaelosuna7824/gentle-architecture-docs   # personal
+gentle-shell install -l git:github.com/ismaelosuna7824/gentle-architecture-docs # this project only
 # or try it once without installing:
 gentle-shell --skill ./skills/architecture-docs
 ```
